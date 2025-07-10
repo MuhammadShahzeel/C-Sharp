@@ -1,0 +1,15 @@
+C:\Users\shahz\OneDrive\Desktop\OOP\fourWithStatic\bin\Debug\fourWithStatic.exe.config
+C:\Users\shahz\OneDrive\Desktop\OOP\fourWithStatic\bin\Debug\fourWithStatic.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\fourWithStatic\bin\Debug\fourWithStatic.pdb
+C:\Users\shahz\OneDrive\Desktop\OOP\fourWithStatic\obj\Debug\fourWithStatic.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\fourWithStatic\obj\Debug\fourWithStatic.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\fourWithStatic\obj\Debug\fourWithStatic.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\fourWithStatic\obj\Debug\fourWithStatic.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\bin\Debug\fourWithStatic.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\bin\Debug\fourWithStatic.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\bin\Debug\fourWithStatic.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\obj\Debug\fourWithStatic.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\obj\Debug\fourWithStatic.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\obj\Debug\fourWithStatic.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\obj\Debug\fourWithStatic.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourWithStatic\obj\Debug\fourWithStatic.pdb

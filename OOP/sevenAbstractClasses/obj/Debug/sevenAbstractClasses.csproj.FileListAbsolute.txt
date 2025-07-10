@@ -1,0 +1,15 @@
+C:\Users\shahz\OneDrive\Desktop\OOP\sevenAbstractClasses\bin\Debug\sevenAbstractClasses.exe.config
+C:\Users\shahz\OneDrive\Desktop\OOP\sevenAbstractClasses\bin\Debug\sevenAbstractClasses.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\sevenAbstractClasses\bin\Debug\sevenAbstractClasses.pdb
+C:\Users\shahz\OneDrive\Desktop\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\bin\Debug\sevenAbstractClasses.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\bin\Debug\sevenAbstractClasses.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\bin\Debug\sevenAbstractClasses.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sevenAbstractClasses\obj\Debug\sevenAbstractClasses.pdb

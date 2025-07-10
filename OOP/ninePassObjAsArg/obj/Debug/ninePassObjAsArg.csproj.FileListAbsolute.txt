@@ -1,0 +1,8 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\bin\Debug\ninePassObjAsArg.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\bin\Debug\ninePassObjAsArg.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\bin\Debug\ninePassObjAsArg.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\obj\Debug\ninePassObjAsArg.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\obj\Debug\ninePassObjAsArg.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\obj\Debug\ninePassObjAsArg.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\obj\Debug\ninePassObjAsArg.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\ninePassObjAsArg\obj\Debug\ninePassObjAsArg.exe.config

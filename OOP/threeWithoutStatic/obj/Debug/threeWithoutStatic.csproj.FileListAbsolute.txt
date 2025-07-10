@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\threeWithoutStatic\bin\Debug\threeWithoutStatic.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\threeWithoutStatic\bin\Debug\threeWithoutStatic.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\threeWithoutStatic\bin\Debug\threeWithoutStatic.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\threeWithoutStatic\obj\Debug\threeWithoutStatic.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\threeWithoutStatic\obj\Debug\threeWithoutStatic.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\threeWithoutStatic\obj\Debug\threeWithoutStatic.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\threeWithoutStatic\obj\Debug\threeWithoutStatic.pdb

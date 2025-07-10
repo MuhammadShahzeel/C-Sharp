@@ -1,0 +1,8 @@
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\bin\Debug\Arrays.exe
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\bin\Debug\Arrays.pdb
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\obj\Debug\Arrays.exe
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\obj\Debug\Arrays.pdb
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Arrays\obj\Debug\Arrays.exe.config

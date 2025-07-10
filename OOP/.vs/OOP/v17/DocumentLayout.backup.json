@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61398E7-EEEB-4EDA-A6B4-100FF48FDC0E}|eighteenGenerics\\eighteenGenerics.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\c#\\oop\\eighteengenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61398E7-EEEB-4EDA-A6B4-100FF48FDC0E}|eighteenGenerics\\eighteenGenerics.csproj|solutionrelative:eighteengenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3F9120-A056-496D-999B-A08E3DD660B6}|thirteenInterface\\thirteenInterface.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\thirteeninterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3F9120-A056-496D-999B-A08E3DD660B6}|thirteenInterface\\thirteenInterface.csproj|solutionrelative:thirteeninterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39934590-1AF9-406F-8CAE-EDA6F36A2E48}|nineteenPartialClasses\\nineteenPartialClasses.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\nineteenpartialclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39934590-1AF9-406F-8CAE-EDA6F36A2E48}|nineteenPartialClasses\\nineteenPartialClasses.csproj|solutionrelative:nineteenpartialclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0591C2D8-8B52-48E1-9F75-59D73EC3BCBC}|sixteenAutoIMplementedProperties\\sixteenAutoIMplementedProperties.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\sixteenautoimplementedproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0591C2D8-8B52-48E1-9F75-59D73EC3BCBC}|sixteenAutoIMplementedProperties\\sixteenAutoIMplementedProperties.csproj|solutionrelative:sixteenautoimplementedproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B089566-D411-44D5-B6D9-9B2B6DE83AB4}|seventeenEnum\\seventeenEnum.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\seventeenenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B089566-D411-44D5-B6D9-9B2B6DE83AB4}|seventeenEnum\\seventeenEnum.csproj|solutionrelative:seventeenenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B013F-B8E6-459A-A027-C4440357631C}|fifteenGetterSetter\\fifteenGetterSetter.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\fifteengettersetter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B013F-B8E6-459A-A027-C4440357631C}|fifteenGetterSetter\\fifteenGetterSetter.csproj|solutionrelative:fifteengettersetter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF789B-CD09-4FAA-A2D2-0652DD988AA7}|fourteenListofObj\\fourteenListofObj.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\fourteenlistofobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF789B-CD09-4FAA-A2D2-0652DD988AA7}|fourteenListofObj\\fourteenListofObj.csproj|solutionrelative:fourteenlistofobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3196FE3-BA7D-4A10-979C-11FA4C1C816A}|twelevePolymorphism\\twelevePolymorphism.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\twelevepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3196FE3-BA7D-4A10-979C-11FA4C1C816A}|twelevePolymorphism\\twelevePolymorphism.csproj|solutionrelative:twelevepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A57FB8-AFC1-407E-B2CD-6F1F9B78EBC5}|elevenToString\\elevenToString.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\eleventostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A57FB8-AFC1-407E-B2CD-6F1F9B78EBC5}|elevenToString\\elevenToString.csproj|solutionrelative:eleventostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8156251-DDCE-4575-85DE-A98E4CC24212}|eightArrayOfObjs\\eightArrayOfObjs.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\eightarrayofobjs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8156251-DDCE-4575-85DE-A98E4CC24212}|eightArrayOfObjs\\eightArrayOfObjs.csproj|solutionrelative:eightarrayofobjs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BE4E0C-52D7-43F6-8AA9-44E6CD233708}|ninePassObjAsArg\\ninePassObjAsArg.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\ninepassobjasarg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BE4E0C-52D7-43F6-8AA9-44E6CD233708}|ninePassObjAsArg\\ninePassObjAsArg.csproj|solutionrelative:ninepassobjasarg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400A475E-D702-4086-BCEF-CB4C661F6AF3}|tenMethodOverriding\\tenMethodOverriding.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\tenmethodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400A475E-D702-4086-BCEF-CB4C661F6AF3}|tenMethodOverriding\\tenMethodOverriding.csproj|solutionrelative:tenmethodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 306,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\nineteenPartialClasses\\Program.cs",
+              "RelativeDocumentMoniker": "nineteenPartialClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\nineteenPartialClasses\\Program.cs",
+              "RelativeToolTip": "nineteenPartialClasses\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA1wGgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:47:51.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\eighteenGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "eighteenGenerics\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\eighteenGenerics\\Program.cs*",
+              "RelativeToolTip": "eighteenGenerics\\Program.cs*",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAIwCMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T22:06:46.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\seventeenEnum\\Program.cs",
+              "RelativeDocumentMoniker": "seventeenEnum\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\seventeenEnum\\Program.cs",
+              "RelativeToolTip": "seventeenEnum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T21:31:12.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\sixteenAutoIMplementedProperties\\Program.cs",
+              "RelativeDocumentMoniker": "sixteenAutoIMplementedProperties\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\sixteenAutoIMplementedProperties\\Program.cs",
+              "RelativeToolTip": "sixteenAutoIMplementedProperties\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T21:19:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\fifteenGetterSetter\\Program.cs",
+              "RelativeDocumentMoniker": "fifteenGetterSetter\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\fifteenGetterSetter\\Program.cs",
+              "RelativeToolTip": "fifteenGetterSetter\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:58:36.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\fourteenListofObj\\Program.cs",
+              "RelativeDocumentMoniker": "fourteenListofObj\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\fourteenListofObj\\Program.cs",
+              "RelativeToolTip": "fourteenListofObj\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:41:02.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\thirteenInterface\\Program.cs",
+              "RelativeDocumentMoniker": "thirteenInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\thirteenInterface\\Program.cs",
+              "RelativeToolTip": "thirteenInterface\\Program.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAADwv7YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:56:35.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\twelevePolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "twelevePolymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\twelevePolymorphism\\Program.cs",
+              "RelativeToolTip": "twelevePolymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:58:32.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\elevenToString\\Program.cs",
+              "RelativeDocumentMoniker": "elevenToString\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\elevenToString\\Program.cs",
+              "RelativeToolTip": "elevenToString\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:55:50.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\tenMethodOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "tenMethodOverriding\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\tenMethodOverriding\\Program.cs",
+              "RelativeToolTip": "tenMethodOverriding\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:58:15.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\ninePassObjAsArg\\Program.cs",
+              "RelativeDocumentMoniker": "ninePassObjAsArg\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\ninePassObjAsArg\\Program.cs",
+              "RelativeToolTip": "ninePassObjAsArg\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:26:09.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\eightArrayOfObjs\\Program.cs",
+              "RelativeDocumentMoniker": "eightArrayOfObjs\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\OOP\\eightArrayOfObjs\\Program.cs",
+              "RelativeToolTip": "eightArrayOfObjs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:03:17.145Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

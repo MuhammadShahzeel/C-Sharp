@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\thirteenInterface\bin\Debug\thirteenInterface.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\thirteenInterface\bin\Debug\thirteenInterface.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\thirteenInterface\bin\Debug\thirteenInterface.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\thirteenInterface\obj\Debug\thirteenInterface.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\thirteenInterface\obj\Debug\thirteenInterface.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\thirteenInterface\obj\Debug\thirteenInterface.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\thirteenInterface\obj\Debug\thirteenInterface.pdb

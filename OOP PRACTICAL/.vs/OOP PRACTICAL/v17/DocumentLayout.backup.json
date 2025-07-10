@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\oop practical\\bankaccountsapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\oop practical\\bankaccountsapp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\oop practical\\bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B896FD32-D6B0-4AEA-8F2F-F24D9E25EF8E}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 306,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\SavingsAccount.cs*",
+              "RelativeToolTip": "BankAccountsApp\\SavingsAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:56:14.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\BankAccount.cs*",
+              "RelativeToolTip": "BankAccountsApp\\BankAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:59:30.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\Form1.cs",
+              "RelativeToolTip": "BankAccountsApp\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:55:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\OOP PRACTICAL\\BankAccountsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "BankAccountsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:37:43.521Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

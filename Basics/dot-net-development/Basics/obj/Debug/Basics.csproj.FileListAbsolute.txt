@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Basics\bin\Debug\Basics.exe.config
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Basics\bin\Debug\Basics.exe
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Basics\bin\Debug\Basics.pdb
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Basics\obj\Debug\Basics.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Basics\obj\Debug\Basics.exe
+C:\Users\shahz\OneDrive\Desktop\dot-net-development\Basics\obj\Debug\Basics.pdb

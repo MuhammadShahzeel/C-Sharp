@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\twoObjsAndConstructors\bin\Debug\twoObjsAndConstructors.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\twoObjsAndConstructors\bin\Debug\twoObjsAndConstructors.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\twoObjsAndConstructors\bin\Debug\twoObjsAndConstructors.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\twoObjsAndConstructors\obj\Debug\twoObjsAndConstructors.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\twoObjsAndConstructors\obj\Debug\twoObjsAndConstructors.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\twoObjsAndConstructors\obj\Debug\twoObjsAndConstructors.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\twoObjsAndConstructors\obj\Debug\twoObjsAndConstructors.pdb

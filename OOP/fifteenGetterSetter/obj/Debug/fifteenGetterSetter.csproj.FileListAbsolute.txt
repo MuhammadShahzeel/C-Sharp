@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fifteenGetterSetter\bin\Debug\fifteenGetterSetter.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fifteenGetterSetter\bin\Debug\fifteenGetterSetter.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fifteenGetterSetter\bin\Debug\fifteenGetterSetter.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fifteenGetterSetter\obj\Debug\fifteenGetterSetter.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fifteenGetterSetter\obj\Debug\fifteenGetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fifteenGetterSetter\obj\Debug\fifteenGetterSetter.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fifteenGetterSetter\obj\Debug\fifteenGetterSetter.pdb

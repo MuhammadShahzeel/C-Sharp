@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\elevenToString\bin\Debug\elevenToString.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\elevenToString\bin\Debug\elevenToString.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\elevenToString\bin\Debug\elevenToString.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\elevenToString\obj\Debug\elevenToString.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\elevenToString\obj\Debug\elevenToString.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\elevenToString\obj\Debug\elevenToString.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\elevenToString\obj\Debug\elevenToString.pdb

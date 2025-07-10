@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourteenListofObj\bin\Debug\fourteenListofObj.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourteenListofObj\bin\Debug\fourteenListofObj.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourteenListofObj\bin\Debug\fourteenListofObj.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourteenListofObj\obj\Debug\fourteenListofObj.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourteenListofObj\obj\Debug\fourteenListofObj.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourteenListofObj\obj\Debug\fourteenListofObj.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\fourteenListofObj\obj\Debug\fourteenListofObj.pdb

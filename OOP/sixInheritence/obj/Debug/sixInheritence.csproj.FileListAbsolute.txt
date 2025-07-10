@@ -1,0 +1,15 @@
+C:\Users\shahz\OneDrive\Desktop\OOP\sixInheritence\bin\Debug\sixInheritence.exe.config
+C:\Users\shahz\OneDrive\Desktop\OOP\sixInheritence\bin\Debug\sixInheritence.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\sixInheritence\bin\Debug\sixInheritence.pdb
+C:\Users\shahz\OneDrive\Desktop\OOP\sixInheritence\obj\Debug\sixInheritence.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\sixInheritence\obj\Debug\sixInheritence.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\sixInheritence\obj\Debug\sixInheritence.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\sixInheritence\obj\Debug\sixInheritence.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\bin\Debug\sixInheritence.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\bin\Debug\sixInheritence.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\bin\Debug\sixInheritence.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\obj\Debug\sixInheritence.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\obj\Debug\sixInheritence.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\obj\Debug\sixInheritence.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\obj\Debug\sixInheritence.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\sixInheritence\obj\Debug\sixInheritence.pdb

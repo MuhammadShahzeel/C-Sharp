@@ -1,0 +1,8 @@
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\bin\Debug\eighteenGenerics.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\bin\Debug\eighteenGenerics.exe
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\bin\Debug\eighteenGenerics.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\obj\Debug\eighteenGenerics.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\obj\Debug\eighteenGenerics.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\obj\Debug\eighteenGenerics.exe
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\obj\Debug\eighteenGenerics.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\C#\OOP\eighteenGenerics\obj\Debug\eighteenGenerics.exe.config

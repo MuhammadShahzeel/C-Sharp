@@ -1,0 +1,8 @@
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\bin\Debug\eightArrayOfObjs.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\bin\Debug\eightArrayOfObjs.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\bin\Debug\eightArrayOfObjs.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\obj\Debug\eightArrayOfObjs.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\obj\Debug\eightArrayOfObjs.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\obj\Debug\eightArrayOfObjs.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\obj\Debug\eightArrayOfObjs.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\eightArrayOfObjs\obj\Debug\eightArrayOfObjs.exe.config

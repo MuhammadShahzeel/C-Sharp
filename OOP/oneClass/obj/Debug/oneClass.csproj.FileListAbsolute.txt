@@ -1,0 +1,16 @@
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\obj\Debug\oneClass.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\obj\Debug\oneClass.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\bin\Debug\oneClass.exe.config
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\bin\Debug\oneClass.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\bin\Debug\oneClass.pdb
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\obj\Debug\oneClass.exe
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\obj\Debug\oneClass.pdb
+C:\Users\shahz\OneDrive\Desktop\OOP\oneClass\obj\Debug\oneClass.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\bin\Debug\oneClass.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\bin\Debug\oneClass.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\bin\Debug\oneClass.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\obj\Debug\oneClass.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\obj\Debug\oneClass.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\obj\Debug\oneClass.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\obj\Debug\oneClass.exe
+C:\Users\shahz\OneDrive\Desktop\.net\OOP\oneClass\obj\Debug\oneClass.pdb
