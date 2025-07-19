@@ -1,0 +1,14 @@
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\bin\Debug\net8.0\SynchronousProgramming.exe
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\bin\Debug\net8.0\SynchronousProgramming.deps.json
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\bin\Debug\net8.0\SynchronousProgramming.runtimeconfig.json
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\bin\Debug\net8.0\SynchronousProgramming.dll
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\bin\Debug\net8.0\SynchronousProgramming.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\SynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\SynchronousProgramming.AssemblyInfoInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\SynchronousProgramming.AssemblyInfo.cs
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\SynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\SynchronousProgramming.dll
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\refint\SynchronousProgramming.dll
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\SynchronousProgramming.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\SynchronousProgramming.genruntimeconfig.cache
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\SynchronousProgramming\obj\Debug\net8.0\ref\SynchronousProgramming.dll

@@ -1,0 +1,7 @@
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\HashSet\bin\Debug\HashSet.exe.config
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\HashSet\bin\Debug\HashSet.exe
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\HashSet\bin\Debug\HashSet.pdb
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\HashSet\obj\Debug\HashSet.exe
+C:\Users\shahz\OneDrive\Desktop\.net\C# advanced\HashSet\obj\Debug\HashSet.pdb

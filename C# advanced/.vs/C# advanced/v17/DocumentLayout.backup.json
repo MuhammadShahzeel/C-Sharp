@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5380491-CA90-407E-B3A6-D9CA56708209}|DelegatesAnonymousMethod\\DelegatesAnonymousMethod.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\c#\\c# advanced\\delegatesanonymousmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5380491-CA90-407E-B3A6-D9CA56708209}|DelegatesAnonymousMethod\\DelegatesAnonymousMethod.csproj|solutionrelative:delegatesanonymousmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2927A-9A66-41A5-989F-EE7E6F2488B0}|DelegatesMulticast\\DelegatesMulticast.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\c#\\c# advanced\\delegatesmulticast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F2927A-9A66-41A5-989F-EE7E6F2488B0}|DelegatesMulticast\\DelegatesMulticast.csproj|solutionrelative:delegatesmulticast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94E23BD-F48E-46C5-B7A8-3EBDF4615D81}|Delegates\\Delegates.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\c#\\c# advanced\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E23BD-F48E-46C5-B7A8-3EBDF4615D81}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B977C48D-8837-4FCF-B2D1-BEA17AAA0160}|AsyncProgramming\\AsyncProgramming.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\c#\\c# advanced\\asyncprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B977C48D-8837-4FCF-B2D1-BEA17AAA0160}|AsyncProgramming\\AsyncProgramming.csproj|solutionrelative:asyncprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B977C48D-8837-4FCF-B2D1-BEA17AAA0160}|AsyncProgramming\\AsyncProgramming.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\c#\\c# advanced\\asyncprogramming\\asyncprogramming.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B977C48D-8837-4FCF-B2D1-BEA17AAA0160}|AsyncProgramming\\AsyncProgramming.csproj|solutionrelative:asyncprogramming\\asyncprogramming.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 306,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\DelegatesAnonymousMethod\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesAnonymousMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\DelegatesAnonymousMethod\\Program.cs",
+              "RelativeToolTip": "DelegatesAnonymousMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:40:10.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\DelegatesMulticast\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesMulticast\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\DelegatesMulticast\\Program.cs",
+              "RelativeToolTip": "DelegatesMulticast\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:12:43.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:40:40.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsyncProgramming.csproj",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\AsyncProgramming\\AsyncProgramming.csproj",
+              "RelativeDocumentMoniker": "AsyncProgramming\\AsyncProgramming.csproj",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\AsyncProgramming\\AsyncProgramming.csproj",
+              "RelativeToolTip": "AsyncProgramming\\AsyncProgramming.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T14:32:34.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\AsyncProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncProgramming\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\C#\\C# advanced\\AsyncProgramming\\Program.cs",
+              "RelativeToolTip": "AsyncProgramming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:21:41.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
